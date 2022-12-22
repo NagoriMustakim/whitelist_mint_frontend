@@ -1,0 +1,50 @@
+{
+  "dna": "cf686ed28fd90827e1ed85f1ac049a3a",
+  "name": "gang #26",
+  "description": "this is the NFT of gang of wassepur",
+  "image": "REPLACE-THIS-WITH-YOUR-URL/26.png",
+  "date": 1643357254120,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "suit",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "shoulder",
+      "value": "USA"
+    },
+    {
+      "trait_type": "pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "face-hair",
+      "value": "NoFacialHair"
+    },
+    {
+      "trait_type": "mask",
+      "value": "NoMask"
+    },
+    {
+      "trait_type": "hair",
+      "value": "BlondeBun"
+    },
+    {
+      "trait_type": "access",
+      "value": "NoAcc"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "GlassDome"
+    }
+  ],
+  "compiler": "raremints.club"
+}

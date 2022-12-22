@@ -1,0 +1,50 @@
+{
+  "dna": "026f3e216848ab17c6cbcf8b3aa804db",
+  "name": "gang #4",
+  "description": "this is the NFT of gang of wassepur",
+  "image": "REPLACE-THIS-WITH-YOUR-URL/4.png",
+  "date": 1643357252815,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "LightBlue"
+    },
+    {
+      "trait_type": "suit",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "shoulder",
+      "value": "LunaFlag"
+    },
+    {
+      "trait_type": "pin",
+      "value": "Smiley"
+    },
+    {
+      "trait_type": "skin",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "face-hair",
+      "value": "NoFacialHair"
+    },
+    {
+      "trait_type": "mask",
+      "value": "NoMask"
+    },
+    {
+      "trait_type": "hair",
+      "value": "BlondeBun"
+    },
+    {
+      "trait_type": "access",
+      "value": "NoAcc"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "NoHeadwear"
+    }
+  ],
+  "compiler": "raremints.club"
+}
