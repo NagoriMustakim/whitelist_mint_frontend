@@ -170,7 +170,7 @@ export default function Home() {
         providerOptions: {},
         disableInjectedProvider: false,
       });
-      // connectWallet();
+      connectWallet();
     }
   }, [walletConnected]);
 
@@ -198,6 +198,7 @@ export default function Home() {
             </div>
             {renderButton()}
             <Link href="./nft"> <button className={styles.btn_collection}> Mint NFT </button></Link>
+            <Link href="./token"> <button className={styles.btn_collection}> Mint Token </button></Link>
           </div>
           <div>
             {/* <img className={styles.image} src={image} /> */}
